@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:ender_pearl",
+    "minecraft:gold_ingot",
+    "minecraft:lapis_lazuli"
+  ],
+  "result": {
+    "id": "deep_storage_sync:linker",
+    "count": 1
+  }
+}

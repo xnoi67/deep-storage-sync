@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "deep_storage_sync",
+  "version": "${version}",
+  "name": "Deep Storage Sync",
+  "description": "Lag-free cross-dimension storage network with intent-based smart sorting and one-click item routing.",
+  "authors": ["Deep Storage Sync Team"],
+  "license": "MIT",
+  "icon": "assets/deep_storage_sync/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.deepstoragesync.DeepStorageSync"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
